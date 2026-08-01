@@ -131,19 +131,20 @@ Built an interactive dashboard featuring:
 E-Commerce-Sales-Analytics/
 │
 ├── data/
-│   └── ecommerce.csv
-│
-├── python/
-│   └── ecommerce_analysis.ipynb
-│
-├── sql/
-│   └── ecommerce_analysis.sql
-│
-├── tableau/
-│   └── ecommerce_dashboard.twbx
+│   └── ecommerce.csv.gz
+│   └── ecommerce_cleaned.csv.gz
 │
 ├── images/
 │   └── dashboard.png
+│
+├── python/
+│   └── e_commerce_Sales.ipynb
+│
+├── sql/
+│   └── ecommerce_sales.sql
+│
+├── tableau/
+│   └── ecommerce_Dashboard.twbx
 │
 └── README.md
 ```
